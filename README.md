@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Samuel Ramirez 👋
 
-<!--
-**SamuelRamirezJ/SamuelRamirezJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | Data Engineering | Cloud | Automation
 
-Here are some ideas to get you started:
+I'm a U.S. Navy veteran and software engineer with experience in software development, cloud technologies, troubleshooting, and business operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies
+- Python
+- SQL
+- C#
+- JavaScript / TypeScript
+- AWS
+- Git & GitHub
+- Data Engineering
+- REST APIs
+
+### 🚀 Currently Building
+I'm developing practical software and data-engineering projects focused on solving real-world business problems.
+
+### 📌 Featured Projects
+New projects coming soon.
